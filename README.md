@@ -19,3 +19,6 @@ This GitHub repository is just my personal academic notebook, so some of the sta
 ---
 
 Happy reading! 📖✨
+
+# Paper list 🔑
+- [August,2024](./papers/aug_2024.md)
