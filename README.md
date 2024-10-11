@@ -22,3 +22,4 @@ Happy reading! 📖✨
 
 # Paper list 🔑
 - [August,2024](./papers/aug_2024.md)
+- [October, 2024](./papers/oct_2024.md)
